@@ -7,7 +7,7 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 
 ---
 
-### Mario's Skills:
+### Mario's Skills
 
 | Technology | Examples |
 | ----------- | ----------- |
@@ -21,14 +21,13 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,java,python,c,swift,spring,nodejs,express,react,postman,vscode,atom,idea,replit,mysql,postgres,git,github&perline=9)](https://skillicons.dev) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkyz&layout=compact)](https://github.com/Alkyz)
+
 ### Currently learning...
 
 - AWS Cloud Services ☁️
 - Android Development (Kotlin) 📱
 - Algorithm Analysis 🧑‍💻
-
-
-
 
 ---
 
