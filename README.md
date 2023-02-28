@@ -28,7 +28,7 @@ Currently learning...
 
 ---
 
-### Love this quote
+### Love This Quote
 
 > The computer programmer is a creator of universes for which he alone is responsible for. Universes of virtually unlimited complexity can be created in the form of computer programs.
 
