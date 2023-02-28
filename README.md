@@ -1,5 +1,5 @@
 ### Greetings! My name is Mario. 👋  
-<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" height="250"/>
+<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" height="150"/>
 
 I am an undergraduate student that has a passion for building front and back-end services. Very recently, I also have started learning the ropes of mobile app development. I love to create applications because I believe every app is made different and unique. Even with a whole world of software at our finger tips, there is always some new feature to develop, and that motivates me to think of new ideas. 
 
