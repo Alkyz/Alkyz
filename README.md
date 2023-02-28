@@ -18,7 +18,7 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 | Mobile | Java, Swift |
 | Version Control | Git, GitHub |
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,java,python,c,swift,spring,nodejs,express,react,vscode,atom,idea,mysql,postgres,git,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,java,python,c,swift,spring,nodejs,express,react,postman,vscode,atom,idea,replit,mysql,postgres,git,github&perline=9)](https://skillicons.dev)
 
 Currently learning...
 
