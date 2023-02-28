@@ -10,12 +10,15 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 
 | Technology | Examples |
 | ----------- | ----------- |
-| Front-End | HTML, CSS, JavaScript, Bootstrap, jQuery |
+| Front-End | HTML, CSS, JavaScript, Bootstrap, jQuery | 
 | Back-End | Java, Python, C, Assembly, Swift |
 | Tools | Spring Boot, Node.js, Express, React.js |
+| Code Editors | VSCode, Atom, IntelliJ, PyCharm |
 | Databases | MySQL, PostgreSQL, MongoDB |
 | Mobile | Java, Swift |
 | Version Control | Git, GitHub |
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,java,python,c,swift,spring,nodejs,express,react,vscode,atom,idea,mysql,postgres,git,github&perline=10)](https://skillicons.dev)
 
 Currently learning...
 
