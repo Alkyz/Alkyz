@@ -12,8 +12,8 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 | ----------- | ----------- |
 | Front-End | HTML, CSS, JavaScript, Bootstrap, jQuery |
 | Back-End | Java, Python, C, Assembly, Swift |
+| Tools | Spring Boot, Node.js, Express, React.js |
 | Databases | MySQL, PostgreSQL, MongoDB |
-| Tools | Spring Boot, Node.js, React.js |
 | Mobile | Java, Swift |
 | Version Control | Git, GitHub |
 
