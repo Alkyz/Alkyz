@@ -4,7 +4,35 @@ I am an undergraduate student that has a passion for building back and front-end
 
 On this page, you can find some of my new and past works. Hope you enjoy. 
 
-	> abc
+---
+
+### Mario's Skills:
+
+| Technology | Examples |
+| ----------- | ----------- |
+| Front-End | HTML, CSS, JavaScript, Bootstrap, jQuery |
+| Back-End | Java, Python, C, Assembly, Swift |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| Tools | Spring Boot, Node.js, React.js |
+| Mobile | Java, Swift |
+| Version Control | Git, GitHub |
+
+Currently learning...
+
+- AWS Cloud Services ☁️
+- Android Development (Kotlin) 📱
+- Algorithm Analysis 🧑‍💻
+
+
+
+
+---
+
+### Love this quote
+
+> The computer programmer is a creator of universes for which he alone is responsible for. Universes of virtually unlimited complexity can be created in the form of computer programs.
+
+By Joseph Weizenbaum
   
   
 <!--
