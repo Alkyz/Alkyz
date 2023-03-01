@@ -20,9 +20,7 @@ On this page, you can find some of my new and past works. Hope you enjoy.
 | Version Control | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,java,python,c,swift,spring,nodejs,express,react,postman,vscode,atom,idea,replit,mysql,postgres,git,github&perline=9)](https://skillicons.dev) -->
 
-### More Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkyz&layout=compact)](https://github.com/Alkyz)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alkyz&layout=compact)](https://github.com/Alkyz) -->
 
 ### Currently learning...
 
